@@ -1,0 +1,31 @@
+image_path, class, confidence, xmin, ymin, xmax, ymax
+toaster/4.webp, toaster, 0.391, 235, 108, 549, 472
+toaster/2.webp, cell phone, 0.823, 139, 291, 454, 475
+toaster/3.jpg, cup, 0.303, 470, 222, 569, 330
+toaster/1.jpg, orange, 0.302, 167, 201, 238, 248
+toaster/5.jpg, no_detections
+oven/our-place-product-thumbnail-lifestyle-large-wonder-oven-char-tray.webp, oven, 0.827, 8, 62, 621, 425
+oven/3.jpg, potted plant, 0.263, 323, 30, 371, 74
+oven/5.jpeg, oven, 0.740, 116, 4, 636, 474
+truck/51003834.jpg, truck, 0.894, 4, 42, 638, 427
+truck/Freightliner_M2_106_6x4_2014_(14240376744).jpg, truck, 0.260, 0, 122, 88, 331
+truck/why-is-it-called-a-semi-truck.jpg, truck, 0.882, 14, 82, 632, 427
+truck/47X_NEW.jpg, truck, 0.907, 31, 51, 606, 443
+truck/truck1.jpg, bus, 0.538, 169, 74, 525, 451
+truck/home-page-2025-t880s-hood.jpg, truck, 0.887, 87, 105, 589, 404
+cow/4.webp, cow, 0.822, 181, 282, 238, 321
+cow/3.webp, cow, 0.720, 594, 130, 610, 144
+cow/istockphoto-1282514444-612x612.jpg, cow, 0.927, 54, 44, 592, 430
+cow/6.jpeg, cow, 0.638, 65, 2, 492, 470
+cow/5.jpg, cow, 0.891, 200, 17, 482, 470
+cow/cow-eating-grass-stockcake.jpg, cow, 0.358, 0, 162, 103, 251
+Airplane/airplane-on-runway-scaled-1.webp, airplane, 0.747, 1, 43, 637, 297
+Airplane/aircraft-jet-landing-cloud-46148.jpeg, airplane, 0.871, 0, 70, 593, 268
+Airplane/commercial-airline-passenger-plane-landing-at-airport-with-beautiful-sunset-sky-and-clouds-arrival-flight-airplane-flying-over-runway-fence-and-taxiw.jpg, traffic light, 0.513, 109, 421, 124, 445
+Airplane/GettyImages-1140602972-e1748616001999.jpg, airplane, 0.925, 195, 195, 523, 309
+Airplane/airplane-flying-sky-travel-background-600nw-2478264897.webp, airplane, 0.919, 105, 160, 533, 338
+train/00NA-Trains-OpenCars-googleFourByThree.jpg, train, 0.332, 2, 0, 609, 472
+train/Cog Drone-21.jpg, train, 0.816, 311, 203, 515, 308
+train/travel-inspiration-magazine-exploring-the-worlds-best-steam-train-journeys.jpg, train, 0.937, 158, 62, 638, 451
+train/istockphoto-178489146-612x612.jpg, traffic light, 0.842, 584, 118, 613, 166
+train/16e91d60-9d0d-46ae-8759-9731c12de4a5.jpg, train, 0.948, 16, 193, 563, 454

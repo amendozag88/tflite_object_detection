@@ -1,0 +1,31 @@
+image_path, class, confidence, xmin, ymin, xmax, ymax
+toaster/4.webp, cup, 0.271, 0, 0, 90, 130
+toaster/2.webp, cell phone, 0.570, 140, 291, 455, 479
+toaster/3.jpg, cup, 0.264, 470, 222, 569, 331
+toaster/1.jpg, orange, 0.268, 167, 201, 238, 248
+toaster/5.jpg, no_detections
+oven/our-place-product-thumbnail-lifestyle-large-wonder-oven-char-tray.webp, oven, 0.434, 7, 62, 616, 414
+oven/3.jpg, potted plant, 0.275, 323, 30, 371, 74
+oven/5.jpeg, oven, 0.645, 135, 10, 636, 477
+truck/51003834.jpg, truck, 0.915, 19, 41, 637, 427
+truck/Freightliner_M2_106_6x4_2014_(14240376744).jpg, truck, 0.441, 49, 4, 613, 472
+truck/why-is-it-called-a-semi-truck.jpg, truck, 0.881, 7, 83, 634, 428
+truck/47X_NEW.jpg, truck, 0.902, 31, 43, 608, 441
+truck/truck1.jpg, truck, 0.453, 168, 73, 526, 449
+truck/home-page-2025-t880s-hood.jpg, truck, 0.862, 87, 105, 591, 404
+cow/4.webp, cow, 0.795, 182, 282, 238, 321
+cow/3.webp, cow, 0.700, 594, 130, 610, 144
+cow/istockphoto-1282514444-612x612.jpg, cow, 0.929, 45, 53, 578, 432
+cow/6.jpeg, no_detections
+cow/5.jpg, cow, 0.868, 197, 19, 482, 476
+cow/cow-eating-grass-stockcake.jpg, cow, 0.376, 0, 165, 104, 251
+Airplane/airplane-on-runway-scaled-1.webp, airplane, 0.716, 1, 43, 638, 301
+Airplane/aircraft-jet-landing-cloud-46148.jpeg, airplane, 0.913, 0, 69, 591, 269
+Airplane/GettyImages-1140602972-e1748616001999.jpg, airplane, 0.928, 196, 194, 522, 312
+Airplane/plane2.jpg, airplane, 0.428, 181, 187, 581, 330
+Airplane/airplane-flying-sky-travel-background-600nw-2478264897.webp, airplane, 0.911, 106, 161, 534, 340
+train/00NA-Trains-OpenCars-googleFourByThree.jpg, train, 0.290, 2, 0, 622, 474
+train/Cog Drone-21.jpg, train, 0.795, 310, 203, 516, 311
+train/travel-inspiration-magazine-exploring-the-worlds-best-steam-train-journeys.jpg, train, 0.939, 158, 62, 639, 451
+train/istockphoto-178489146-612x612.jpg, traffic light, 0.829, 585, 118, 613, 165
+train/16e91d60-9d0d-46ae-8759-9731c12de4a5.jpg, train, 0.923, 11, 193, 567, 460
